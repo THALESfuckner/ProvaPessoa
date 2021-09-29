@@ -4,8 +4,8 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:5978",
-      "sslPort": 44350
+      "applicationUrl": "http://localhost:28025",
+      "sslPort": 44315
     }
   },
   "profiles": {
@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "Back": {
+    "provagui": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,
